@@ -2,10 +2,10 @@ Hey, I'm Nicky, I like to make stuff.
 
 I made some weird keyboards that I now use daily.
 
-![unsplitv2](./unsplitv2.jpg)
+![Keyboards](./mashup.jpg)
 
-I'm a huge Neovim fan, my config is [here on GitHub](https://github.com/NickyTope/dotfiles/tree/master/nvim/.config/nvim)
+I'm a huge Neovim fan, my config is [here on GitHub](https://github.com/NickyTope/nixos-config/tree/master/dotfiles/nvim/)
 
-Lately I've been working on and enjoying kubernetes, I love the automation control it can provide.
+Have recently moved to NixOS after using Arch Linux for years, the learning curve was tough at the start but the payoff seems worthwhile, I manage my work laptop and home server configuration in the same [GitHub repo](https://github.com/NickyTope/nixos-config)
 
-I write code, lot's of it... mostly Node/React but also python, ansible, Jenkins, Go, a little c and plenty of bash(👊). Have been learning some Lua (for my nvim config) and it's been a fun learning experience.
+I write code, lot's of it... mostly Node/React but also python, ansible, Jenkins, Go, a little c and plenty of bash(👊).
